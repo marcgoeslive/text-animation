@@ -1,0 +1,14 @@
+.number{
+    clear:left;
+    float:left;
+    font-size:40px;
+    letter-spacing: 2px;
+    padding:10px;
+    border:1px solid #edeaea;
+    background-color:#f1f1f1;
+    color:#00a587;
+<<<<<<< HEAD
+=======
+    font-family:Arial;
+>>>>>>> e473235ea2e4184a08085df55a5d7e997280065e
+}
